@@ -1,0 +1,17 @@
+# automuteus
+automuteus/db
+automuteus/redis
+automuteus/.env
+
+# np2mast
+np2mast/.env
+
+# shlink
+shlink/db
+
+# switchbot-discord
+switchbot-discord/.env
+
+# youbine
+youbine/data
+youbine/.env
