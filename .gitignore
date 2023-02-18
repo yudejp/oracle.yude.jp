@@ -15,3 +15,14 @@ switchbot-discord/.env
 # youbine
 youbine/data
 youbine/.env
+
+# vaultwarden
+vaultwarden/data
+vaultwarden/.env
+
+# mastodon
+mastodon/postgres
+mastodon/public
+mastodon/redis
+mastodon/.env.production
+mastodon/backup
