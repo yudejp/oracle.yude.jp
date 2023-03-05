@@ -2,6 +2,7 @@ version: '3.9'
 services:
   nginx:
     image: nginx:latest
+    restart: unless-stopped
     volumes:
       - ./nginx:/etc/nginx/conf.d
       - ./html:/var/www/html
